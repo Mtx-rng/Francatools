@@ -37,22 +37,22 @@
 
 1. Clone este repositório:
 
-bash
+```bash
 git clone https://github.com/Mtx-rng/francatools.git
 cd francatools
-
+```
 2. Dê permissão para o script:
 
 
-
+```bash
 chmod +x francatools.sh
-
+```
 3. Execute o script:
-
+```bash
 ./francatools.sh
 ou
 bash francatools.sh
-
+```
 4. Escolha a ferramenta que deseja instalar/usar no menu exibido.
 
 
